@@ -24,6 +24,4 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hamza-idrissi-944b57211)
-- [GitHub](https://github.com/Hamzar2)
-
 Feel free to connect or collaborate on any project that inspires innovation and makes an impact! 😊
